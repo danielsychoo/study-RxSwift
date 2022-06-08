@@ -27,6 +27,7 @@
 		04DE042F284E2B1900407F11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04DE0435284E2CA200407F11 /* Observable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Observable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		04E2975828502C0A007EAB4B /* FilteringOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilteringOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		04E29759285039CE007EAB4B /* TransformingOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TransformingOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		04F11EFF284ECDE300B9C7BD /* Traits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Traits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		04F11F00284EE32A00B9C7BD /* Subject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0939D3CB2EC776B4F551659D /* Pods-study-RxSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-study-RxSwift.release.xcconfig"; path = "Target Support Files/Pods-study-RxSwift/Pods-study-RxSwift.release.xcconfig"; sourceTree = "<group>"; };
@@ -53,6 +54,7 @@
 				04F11EFF284ECDE300B9C7BD /* Traits.playground */,
 				04F11F00284EE32A00B9C7BD /* Subject.playground */,
 				04E2975828502C0A007EAB4B /* FilteringOperator.playground */,
+				04E29759285039CE007EAB4B /* TransformingOperator.playground */,
 				04DE0420284E2B1800407F11 /* study-RxSwift */,
 				04DE041F284E2B1800407F11 /* Products */,
 				4118339582BF209472F3BC31 /* Pods */,
